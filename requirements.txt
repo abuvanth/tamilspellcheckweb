@@ -1,5 +1,6 @@
 mmh3
 bitarray
 jellyfish
+Open-Tamil
 django
 djangorestframework
